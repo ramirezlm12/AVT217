@@ -21,7 +21,9 @@ div {
     font-family: 'Abril Fatface';
     letter-spacing: 3px;
   }
-
+.blue{
+    font-style: italic;
+}
 .uppercase {
   text-transform: uppercase;
 }
