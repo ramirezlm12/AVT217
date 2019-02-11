@@ -2,18 +2,26 @@
   font-size: 1.6em;
 }
 body {
+  background-color: #476A6F;
+
   font-family: 'Spectral', serif;
   font-size: 20px;
+
+
 
 }
 div {
   width: 600px;
   margin: 50px auto;
+  color: white;
+}
   h1  {
-    font-size: 3em;
+    font-size: 3.052em;
 
   }
-
-
-
+.green {
+    font-style: italic;
+  }
+.uppercase {
+  text-transform: uppercase;
 }

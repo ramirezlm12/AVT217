@@ -1,5 +1,5 @@
 a {
-  font-size: 75px;
+  font-size: 60px;
 }
 
 body  {
@@ -17,4 +17,8 @@ img {
   }
   *{
   color:#b56969;
+}
+  *{
+    text-align: center;
+
 }
