@@ -18,12 +18,18 @@ div {
 }
   h1  {
     font-size: 2.441em;
-    font-family: 'Abril Fatface';
-    letter-spacing: 3px;
+    font-family: 'Archivo Black', sans-serif;
   }
-.blue{
-    font-style: italic;
+
 }
 .uppercase {
   text-transform: uppercase;
+}
+h3 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 1.5em
+}
+h2{
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 1em
 }
