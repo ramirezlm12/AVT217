@@ -146,13 +146,11 @@ border-top: solid 15px #F481B8;
 }
 p{
   font-family: 'Pacifico', cursive;
-
   position: absolute;
   color: #F481B8;
   font-size: 100px;
   top: -41px;
   left: 92px;
-
   line-height: 1.4;
 
 }
