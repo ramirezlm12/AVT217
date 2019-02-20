@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  margin: 0;
+
+}
+div{
+  float: left;
+  border-color:
+
+}
+
+.board{
+  width: 600px;
+}
+
+.inside-board{
+  width: 400px;
+
+}
+
+.red1{
+  width: 100px;
+  height:300px;
+  background-color: red;
+  border: 2px solid white;
+
+  }
+
+.wide-red{
+  width: 400px;
+  height: 100px;
+  background-color: red;
+  border: 2px solid white;
+
+}
+.box-left{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 2px solid white;
+}
+.box-right{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: 2px solid white;
+}
+.red3{
+  width: 100px;
+  height: 300px;
+  background-color: red;
+  border: 2px solid white;
+}
