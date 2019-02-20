@@ -22,12 +22,16 @@ img {
     text-align: center;
 
 }
+h1{
+  text-emphasis:
+}
 a{
 
   text-transform: uppercase;
   font-weight: lighter;
   letter-spacing: 1px;
   color: none;
+  
   text-decoration: none;
   border-bottom: 4px solid none;
   /*  cursor: crosshair;*/
