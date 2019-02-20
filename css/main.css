@@ -1,5 +1,5 @@
 a {
-  font-size: 60px;
+  font-size: 30px;
 }
 
 body  {
@@ -22,3 +22,16 @@ img {
     text-align: center;
 
 }
+a{
+
+  text-transform: uppercase;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  color: none;
+  text-decoration: none;
+  border-bottom: 4px solid none;
+  /*  cursor: crosshair;*/
+  transition: color 1s ease;
+}
+a:hover{
+  color: silver;
