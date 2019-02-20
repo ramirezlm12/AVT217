@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  margin: 0;
+  background-color: #F18F01;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+
+}
+h1{
+  font-size: 3.052em;
+  color: #2E4057;
+}
+a{
+  font-size: 2.5em;
+
+}
+a{
+
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 4px solid none;
+  /*  cursor: crosshair;*/
+  transition: color 1s ease;
+}
+a:hover{
+  color: #2E4057;
