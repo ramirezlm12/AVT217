@@ -2,16 +2,17 @@
     box-sizing: border-box;
 }
 body{
-  margin: 100;
+  margin: o;
   background-color: #F18F01;
   text-align: center;
   font-family: 'Anton', sans-serif;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 h1{
   font-size: 3.052em;
   color: #2E4057;
-  text-transform: uppercase;
+  
 
 }
 a{
