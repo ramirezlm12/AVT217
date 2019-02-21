@@ -1,6 +1,6 @@
 body{
   margin:  150px 50px 75px 500px;
-  text-align: center;
+  text-align: justify;
 }
 div{
   width: 300px;
@@ -9,7 +9,9 @@ div{
 h1{
   font-family: 'Bad Script', cursive;
    color:  #9A031E;
-   font-size: 3.052em;
+   font-size: 2.5em;
+   margin-left: -37px;
+
 }
 h4{
   font-family: 'Crimson Text', serif;
