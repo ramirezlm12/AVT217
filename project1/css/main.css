@@ -1,7 +1,26 @@
-.div{
+body{
+  margin:  150px 50px 75px 500px;
+  text-align: center;
+}
+div{
+  width: 300px;
 
-  width: 600px;
-  margin: 50px auto;
-  color: black;
+}
+h1{
+  font-family: 'Bad Script', cursive;
 
+}
+h4{
+  font-family: 'Crimson Text', serif;
+  width: 300px;
+  font-size: 1em;
+  font-style: normal;
+  margin-left: 86px;
+  margin-top: 200px;
+
+}
+p{
+  font-family: 'Crimson Text', serif;
+  width: 300px;
+  font-size: 1em;
 }
