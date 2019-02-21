@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  margin-left: 300px 0 0 0;
+  float; left;
+
+}
+div{
+  float: left;
+
+}
+.top-container{
+  width: 900px;
+
+}
+.top{
+  width: 900px;
+  height: 100px;
+  background-color: red;
+  border: 2px solid white;
+}
+.thin-top{
+  width: 900px;
+  height: 50px;
+  background-color: red;
+  border: 2px solid white;
+
+}
+.inside-container{
+  width: 900px;
+
+}
+.column{
+ width: 300px;
+ height: 650px;
+ background-color: red;
+ border: 2px solid white;
+
+}

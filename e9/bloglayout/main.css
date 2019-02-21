@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  margin:0;
+
+
+}
+div{
+  float: left;
+
+}
+.top-container{
+  width: 800px;
+
+}
+.top{
+    width: 800px;
+    height: 150px;
+    background-color: red;
+    margin-bottom: 100px;
+
+}
+.rectangle{
+  width: 630px;
+  height: 400px;
+  background-color: red;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.right-side{
+
+  width: 150px;
+  height: 200px;
+  background-color: red;
+}
+.bottom{
+  width: 630px;
+  height: 50px;
+  background-color: red;
+  margin-bottom: 100px;
+}
