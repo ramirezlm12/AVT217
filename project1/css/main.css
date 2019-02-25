@@ -33,18 +33,12 @@ body{
 .t2{
   position: absolute;
   font-family: 'Crimson Text', serif;
-  font-size: 1em;
-  width: 300px;
+  font-size: 1.5em;
+  width: 630px;
   margin-top: 142px;
+  margin-left: 170px;
 }
-.t3{
-    position: absolute;
-    font-family: 'Crimson Text', serif;
-    font-size: 1em;
-    width: 300px;
-    margin-top: 142px;
-    margin-left: 170px;
-}
+
 a{
   font-style: italic;
   font-weight: bold;
