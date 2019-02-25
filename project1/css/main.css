@@ -1,29 +1,58 @@
 body{
-  margin:  150px 50px 75px 500px;
-  text-align: justify;
+  display: block;
+  margin: 0;
 }
-div{
-  width: 300px;
 
-}
-h1{
+.title{
   font-family: 'Bad Script', cursive;
-   color:  #9A031E;
-   font-size: 2.5em;
-   margin-left: -37px;
+  color:  #9A031E;
+  font-size: 3em;
+  line-height: 2.7em;
+  margin-left: 165px;
+  margin-top: -44px;
+
+
 
 }
-h4{
+.author{
   font-family: 'Crimson Text', serif;
-  width: 300px;
   font-size: 1em;
   font-style: normal;
-  margin-left: 86px;
-  margin-top; 200px;
+  margin-left: 200px;
+  margin-top: 155px;
+
 
 }
-p{
+.text{
   font-family: 'Crimson Text', serif;
-  width: 300px;
   font-size: 1em;
+  width: 300px;
+
+  margin: -299px 716px;
+}
+.t2{
+  position: absolute;
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
+  width: 300px;
+  margin-top: 142px;
+}
+.t3{
+    position: absolute;
+    font-family: 'Crimson Text', serif;
+    font-size: 1em;
+    width: 300px;
+    margin-top: 142px;
+    margin-left: 170px;
+}
+a{
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: .7px;
+  color: black;
+  text-decoration: none;
+  transition: color 1s ease;
+}
+a:hover{
+  color: #9A031E;
 }
