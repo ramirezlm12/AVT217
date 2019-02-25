@@ -34,9 +34,11 @@ body{
   position: absolute;
   font-family: 'Crimson Text', serif;
   font-size: 1.5em;
+  text-align: left;
   width: 630px;
   margin-top: 79px;
   margin-left: 170px;
+  line-height: 1.5em;
 }
 
 a{
