@@ -39,9 +39,8 @@ body{
   font-size: 1.3em;
   text-align: left;
   width: 345px;
-  margin-top: 79px;
-  margin-left: 170px;
   line-height: 1.5em;
+  float: left;
 }
 
 a{
@@ -54,4 +53,8 @@ a{
 }
 a:hover{
   color: #9A031E;
+}
+.container{
+  width:600px;
+  margin: 200 0 0 0;
 }
