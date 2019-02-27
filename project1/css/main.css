@@ -21,7 +21,10 @@
   padding: 25px;
 
 }
-
+img{
+  max-width: 70%;
+  height: auto;
+}
 
 h1{
   font-family: 'Bad Script', cursive;
