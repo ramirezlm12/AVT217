@@ -1,24 +1,31 @@
 *{
     box-sizing: border-box;
 }
+.container{
+  width: 1280px;
+  height: 610px;
+
+}
 .left-col{
-  width: 500px;
+  width: 640px;
   float: left;
 
   height: 300px;
-  margin: 100px 60px ;
+  margin: 130px 0px ;
   padding: 25px;
 
 
 
 }
 .right-col{
-  width: 500px;
+  width: 640px;
   float: left;
 
   height: 300px;
-  margin: 100px 25px ;
+  margin: 130px 0 ;
   padding: 25px;
+
+
 
 }
 img{
@@ -29,24 +36,28 @@ img{
 h1{
   font-family: 'Bad Script', cursive;
   color:  #9A031E;
-  font-size: 5.5em;
+  font-size: 5.8em;
   line-height: 1.4em;
-  margin-top: 10px;
-  margin-left: 30px;
+  margin-top: -10px;
+  margin-left: 87px;
 }
 h4{
   font-family: 'Crimson Text', serif;
   color: #424B54;
-  font-size: 1em;
-  text-transform: capitalize;
-  margin: -17px 0px 0px 147px;
+  font-size: 1.1em;
+
+margin: -75px 50px 75px 320px;
+
+font-style: oblique;
+
 }
+/* top right bottom left */
 .text{
   font-family: 'Crimson Text', serif;
   font-size: 1.3em;
   width: 345px;
   margin-top: -2px;
-  margin-left: 30px;
+  margin-left: 110px;
 }
 .t2{
   font-family: 'Crimson Text', serif;
@@ -55,8 +66,8 @@ h4{
   width: 345px;
   line-height: 1.5em;
   float: left;
-  margin-left: 60px;
-  margin-top: -2px;
+  margin-left: 100px;
+  margin-top: -50px;
 }
 
 a{
