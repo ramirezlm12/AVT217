@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  font-size:16px;
+  /* set this at a 16 px, the rest of the body will increase or decrease along with this. */
+  font-family: poynter-oldstyle-text, serif;
+  font-weight: 5px;
+  font-style: normal;
+}
+
+#container{
+  width: 300px;
+  margin: 90px auto 0;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3em;
+  font-family: poynter-oldstyle-text, serif;
+}
+
+h2 {
+  font-size: 1.1em;
+  font-family: poynter-oldstyle-text, serif;
+  margin-left: 70px;
+  margin-bottom: 40px;
+  font-style: italic;
+}
+
+h3 {
+
+  font-size: 1.1em;
+  font-family: poynter-oldstyle-text, serif;
+  margin-bottom: 40px;
+  font-style: italic;
+}
