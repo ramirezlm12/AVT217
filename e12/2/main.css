@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  font-size:16px;
+  /* set this at a 16 px, the rest of the body will increase or decrease along with this. */
+  font-family: poynter-oldstyle-text, serif;
+  font-weight: 5px;
+  font-style: normal;
+}
+
+.container{
+  position: fixed;
+  width: 300px;
+  height: 600px;
+  color: #164016;
+}
+
+.container2{
+  width: 600px;
+  margin-left: 600px;
+  
+}
+
+h1 {
+  font-family: upgrade, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 0;
+  font-size: 3em;
+  color: #FFD5AA;
+
+}
+
+h2 {
+  font-size: 1.1em;
+  color: #FFD5AA;
+
+}
+
+h3 {
+  font-size: 1.1em;
+  color: #164016;
+
+}
+
+p {
+  width: 300px;
+
+}
