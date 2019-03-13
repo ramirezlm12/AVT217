@@ -3,7 +3,7 @@
 }
 body{
   margin:0;
-  padding: 0
+  padding: 0;
   font-size:16px;
   /* set this at a 16 px, the rest of the body will increase or decrease along with this. */
   font-family: poynter-oldstyle-text, serif;
@@ -45,7 +45,7 @@ h2 {
 }
 
 h3 {
-  font-size: 2.5em;
+  font-size: 1.8em;
   color: #164016;
   font-family: upgrade, sans-serif;
   text-align: center;
