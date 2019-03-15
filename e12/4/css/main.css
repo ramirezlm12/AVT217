@@ -1,6 +1,93 @@
 *{
   box-sizing: border-box;
 }
+
+body{
+  margin:0;
+  padding: 0;
+  font-size:16px;
+  /* set this at a 16 px, the rest of the body will increase or decrease along with this. */
+  font-family: poynter-oldstyle-text, serif;
+  font-weight: 5px;
+  font-style: normal;
+}
+
+h1{
+  font-size: 20em;
+  font-family: liebeerika,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 0.8;
+  margin: 0;
+  width: 230px;
+  color: #5364bc;
+
+
+}
+
+h2{
+  font-size: 2em;
+  font-family: liebeerika,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  width: 200px;
+  color: #5364bc;
+
+}
+h3{
+  Poynter Oldstyle Text Bold
+  font-family: poynter-oldstyle-text, serif;
+  font-weight: 700;
+  font-style: normal;
+  width: 455px;
+  color: #336845;
+
+}
+
+img{
+  width: 500px;
+  border-radius: 50%;
+}
+
+.text{
+  width: 450px;
+}
+
+.title{
+  position: relative;
+  float: right;
+  top: 100px;
+  left: -358px;
+}
+
+.picture{
+  position: relative;
+  float: right;
+  top: 716px;
+  left: 205px;
+}
+
+.left{
+  position: absolute;
+  text-align: left;
+  width: 500px;
+  top: 353px;
+  left:  116px;
+
+}
+
+.block{
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 300px;
+    height: 1000px;
+    background-color: #E3F4ED;
+    z-index: -1;
+}
+
 /*Poynter Oldstyle Text Roman
 font-family: poynter-oldstyle-text, serif;
 font-weight: 400;
@@ -14,40 +101,3 @@ font-family: poynter-oldstyle-text, serif;
 font-weight: 700;
 font-style: normal;
   */
-body{
-  margin:0;
-  padding: 0;
-  font-size:16px;
-  /* set this at a 16 px, the rest of the body will increase or decrease along with this. */
-  font-family: poynter-oldstyle-text, serif;
-  font-weight: 5px;
-  font-style: normal;
-}
-
-h1{
-  font-size: 10em;
-  font-family: liebeerika,sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  line-height: 0.8;
-}
-
-h2{
-  font-size: 2em;
-  font-family: liebeerika,sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-}
-h3{
-  Poynter Oldstyle Text Bold
-  font-family: poynter-oldstyle-text, serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-img{
-  width: 500px;
-  border-radius: 50%;
-}
