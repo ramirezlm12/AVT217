@@ -1,0 +1,19 @@
+/* LiebeErika Bold
+font-family: liebeerika, sans-serif;
+font-weight: 700;
+font-style: normal; */
+ /* font-family: liebeerika,sans-serif;
+font-weight: 400;
+font-style: normal; */
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  padding: 0;
+  font-size:16px;
+  /* set this at a 16 px, the rest of the body will increase or decrease along with this. */
+  font-family: poynter-oldstyle-text, serif;
+  font-weight: 5px;
+  font-style: normal;
+}
