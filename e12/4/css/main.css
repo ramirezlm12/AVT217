@@ -26,6 +26,8 @@ h1{
 }
 
 h2{
+  margin-top: 450px;
+  padding-left: 50px;
   font-size: 2em;
   font-family: liebeerika,sans-serif;
   font-weight: 400;
@@ -34,6 +36,7 @@ h2{
   letter-spacing: 3px;
   width: 200px;
   color: #5364bc;
+
 
 }
 h3{
@@ -59,14 +62,15 @@ img{
   position: relative;
   float: right;
   top: 100px;
-  left: -358px;
+  left: -148px;
+  display: flex;
 }
 
 .picture{
   position: relative;
   float: right;
   top: 716px;
-  left: 205px;
+  left: 375px;
 }
 
 .left{
