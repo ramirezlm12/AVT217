@@ -13,8 +13,11 @@ header{
 
 .container{
     width: 1280px;
+    height: 300px;
     margin: 0 auto ;
-    overflow: auto;
+    background-color: #55A8E0;
+    text-align: center;
+
 }
 
 .title{
@@ -27,7 +30,7 @@ header{
 .png{
   float: left;
   margin-right:0;
-  margin-left: 400px;
+  margin-left: 290px;
 
 }
 header h1, header h2{
