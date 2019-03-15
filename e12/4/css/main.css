@@ -76,7 +76,7 @@ img{
 .left{
   position: absolute;
   text-align: left;
-  width: 500px;
+  max-width: 500px;
   top: 353px;
   left:  116px;
 
