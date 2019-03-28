@@ -26,6 +26,9 @@ h1{
     text-align: center;
 
 }
+.height{
+ line-height: 1.6;
+}
 
 a{
   text-transform:  uppercase;
