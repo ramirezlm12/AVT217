@@ -15,52 +15,131 @@ header{
   width: 100vw;
   height: 100vh;
   margin: 0;
-  padding: 7vh 0 0 0;
+  padding: 4vh 0 0 0;
   text-align: center;
 }
-.top{
-  margin-top: 0;
-}
+
 /* body */
 main {
   width: 90vw;
   margin: 25px auto;
-   border: 1px solid red;
+   border: 2px solid red;
+}
+img{
+  width: 90vw;
+  margin: 25px auto;
+}
+.about{
+  width: 90vw;
+  height: 100vw;
+  background-color: #EAE2B7;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
 
 }
-p {
+#container{
+
+
+    background-color: gray;
+    width: 500px;
+}
+h1{
+  font-size: 11.052em;
+  transform: rotate(-90deg);
+
+}
+/* alphabet */
+.alphabet{
+  background-color: #003049;
+  width: 90vw;
+  height: 600px;
+  text-align: center;
+  padding: 5vh 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* type anatomy  */
+.container3{
+  border: 1px solid blue;
+  width: 90vw;
+
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.section {
+    width: 90vw;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p.style{
+  font-size: 3em;
+  margin: 0;
+}
+/*
+.text-column {
   width: 40vw;
   margin: 0 auto;
 }
 /* about section */
-.about {
-  width: 90vw;
-  height: 500px;
-  margin-top: 50px;
-  padding: 25px;
-  border: 1px solid red;
-}
-h1{ font-size: 3em;
-  color: #EAE2B7;
+/* .about {
   background-color: pink;
-
-
-}
-.left {
-  height: 450px;
-  width:  200px;
+  border: 1px solid blue;
+  margin: 20px 20px;
+ padding: 50px;
+  width: 40vw;
   float: left;
-          /* Add this */
-
-  background-color: #F09A9D;
-
-
+    text-align: center;
+}
+h1{ font-size: 9em;
+  color: #EAE2B7;
+  border: 1px solid #5D6063;
+  transform: rotate(-90deg);
 
 }
-.right{
+#about-column {
+  background-color: pink;
+  border: 1px solid blue;
+  margin: 20px 20px;
+ padding: 50px;
+  width: 40vw;
+  float: right;
+    text-align: center;
 
-   float: right;
-  width: 650px;
-  height: 450px;
-    background-color: #D6E9FE;
-}
+} */
+/*   <div class="about">
+
+      <h1><span>About<span></h1>
+      </div>
+        <div id="about-column">
+      <p>An underground home built to withstand earthquakes, bombs and a nuclear attack is on the market near the Las Vegas Strip for $18 million, according to TopTenRealEstateDeals.com. The reinforced concrete bunker sits 26 feet underground and comprises nearly 15,000 square feet of space. This includes a 5,000-square-foot three-bedroom, four-bathroom main house and a separate 450-square-foot one-bedroom guesthouse.</p>
+      <p>Built in 1978 for Girard B. Henderson, former director of the cosmetics company Avon and a major investor in the company that oversaw Gulfstream aircraft, the property is one of multiple underground homes he had built for his use after Cold War tensions started to rise.</p>
+    </div>
+
+
+
+<!-- alphabet -->
+<img src="img/2.png">
+<!-- Type anatomy -->
+<h2>Type Anatomy</h2>
+<!-- weights -->
+<h2>Weights</h2>
+<!--Alternative  -->
+  <div class="text-column">
+  <p>Alternatives are undeniably beautiful. The glyphs created by  alternating and intersecting parts of letters are elegant and  visually interesting.</p>
+</div>
+<!-- examples -->
+    <img src="img/3.png">
+    <img src="img/4.png">
+    <img src="img/5.png">
+    <img src="img/6.png">
+    <img src="img/7.png">
+    <img src="img/8.png"> */
