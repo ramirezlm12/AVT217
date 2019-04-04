@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+.full{
+  width: 100vw;
+  height: 100vh;
+}
+#list-name{
+  background-color: whitesmoke;
+}
+#bird-5{
+  transition: all 2s ease;
+}
+.tomato {
+  background-color: tomato;
+}
+.pink {
+  background-color: pink;
+}
+#bird-4{
+  transition: all 2s ease;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.green{
+  background-color: green;
+}
+h1{
+  padding: 40vh 0 0 0;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 4em;
+  font-family: 'Comfortaa', cursive;
+  /* font-family: 'Poppins', sans-serif;  */
+  /* font-family: 'Righteous', cursive; */
+}
+span{
+      transition: all 2s ease;
+      cursor:pointer;
+}
