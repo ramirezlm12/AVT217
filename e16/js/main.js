@@ -1,12 +1,20 @@
 $(document).ready(function() {
- // $('h1').css('color','white');
- $('#number5').click(function() {
-   $('#number5').css('color','white');
-   $('#bird-5').toggleClass('pink');
- });
- $('#number4').click(function() {
-    $('#number4').css('color', 'goldenrod');
-    $('#bird-4').toggleClass('green');
+  $('#number5').click(function() {
+  $('#number5').css('color','#F77F00');
+  $('#movie-5').toggleClass('blue');
+  $('number5').toggleClass('white');
   });
+  $('#number4').click(function() {
+  $('#movie-4').hide();
+  });
+  $('#number3').click(function() {
+  $('#movie-3').fadeTo('slow','0.10');
+  });
+  $('#number2').hover(function() {
+  $('#number2').toggleClass('shiftText');
+   });
+   $('#number1').click(function() {
+   $('#movie-1').toggleClass('bigger');
+   });
 
 });

@@ -8,25 +8,55 @@ body{
   height: 100vh;
 }
 #list-name{
-  background-color: whitesmoke;
-}
-#bird-5{
-  transition: all 2s ease;
-}
-.tomato {
-  background-color: tomato;
-}
-.pink {
-  background-color: pink;
-}
-#bird-4{
   transition: all 2s ease;
 }
 .lightblue{
-    background-color: lightblue;
+  background-color: #76BED0;
+}
+#movie-5{
+  transition: all 2s ease;
+}
+.peach{
+  background-color: #FF6B6C;
+}
+.blue{
+  background: #016FB9;
+}
+#movie-4{
+  transition: all 2s ease;
+}
+.lavendar{
+  background-color: #B8B8D1;
+}
+.red{
+  background-color: #c6031d;
+}
+#movie-3{
+  transition: all 2s ease;
 }
 .green{
-  background-color: green;
+  background-color: #1E555C;
+}
+#movie-2{
+  transition: all 2s ease;
+}
+.teal{
+  background-color: #628395;
+
+}
+.shiftText {
+  padding-left: 5em;
+}
+
+#movie-1{
+  transition: all 2s ease;
+}
+.gray{
+  background-color: #B3B3B3;
+}
+.bigger {
+    font-size: 50px;
+
 }
 h1{
   padding: 40vh 0 0 0;
@@ -34,12 +64,11 @@ h1{
   text-align: center;
   font-family: sans-serif;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
   font-weight: bold;
   font-size: 4em;
-  font-family: 'Comfortaa', cursive;
-  /* font-family: 'Poppins', sans-serif;  */
-  /* font-family: 'Righteous', cursive; */
+  font-family: 'Permanent Marker', cursive;
+  color: white;
 }
 span{
       transition: all 2s ease;
