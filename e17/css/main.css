@@ -2,8 +2,9 @@
 body {
     margin: 0;
     color: black;
-    background-color: gray
+    background-color: #F78E69;
 }
+
 #container {
     width: 50vw;
     margin: 0 auto;
@@ -17,9 +18,17 @@ h1, p {
 h1 {
     font-size: 48px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: bebas-neue-rounded, sans-serif;
     /*text-transform: uppercase;*/
     letter-spacing: 2px;
+}
+h3{
+  font-size: 20px;
+  text-align: center;
+  font-family: bebas-neue-rounded, sans-serif;
+  /*text-transform: uppercase;*/
+  letter-spacing: 2px;
+  padding: 15px;
 }
 input {
     width: 50vw;
