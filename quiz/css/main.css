@@ -47,7 +47,7 @@ body {
 }
 .section {
   width: 50vw;
-  height:510px;
+  height:510;
   float: left;
   filter: grayscale(0%);
   filter: gray;

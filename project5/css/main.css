@@ -9,6 +9,7 @@ body {
     width: 80vw;
     margin: 0 auto;
     padding: 100px 0 0 0;
+    position: relative;
 
 }
 
@@ -18,10 +19,17 @@ h1, p {
 h1 {
     font-size: 100px;
     text-align: center;
-  font-family: gastromond, sans-serif;
+    font-family: gastromond, sans-serif;
     /*text-transform: uppercase;*/
     letter-spacing: 2px;
     color: #1C448E;
+}
+#coffee {
+  background: url('../img/1.png')no-repeat center center;
+  width: 80vw;
+  height: 80vw;
+  position: absolute;
+  top:0;
 }
 
 /* input {
@@ -32,7 +40,13 @@ h1 {
     padding: 25px 0;
     text-align: center;
 } */
-.button {
+.close{
+    display: none;
+  }
+.open{
+    display: block;
+  }
+#button {
     width: 150px;
     height: 150px;
     background-color: #A44A3F;
@@ -40,13 +54,7 @@ h1 {
     padding: 10px 15px;
     margin: 50px auto;
 }
-.button:hover {
+.hover{
     cursor: pointer;
-}
-.button p {
-    text-align: center;
-    font-family: sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-weight: bold;
+  }
 }
